@@ -1,0 +1,31 @@
+#division1{
+    background-color: rgb(0, 0, 83);
+    height: 100px;
+    width: 100%;
+}
+
+#division2{
+    background-color: rgb(1, 1, 46);
+    color: white;
+}
+
+.a1{
+    text-decoration: none;
+}
+
+#twitter{
+    color: grey;
+}
+
+#mysection{
+    /* padding */
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+
+.h2{
+    text-decoration: underline;
+    text-decoration-color: rgb(211, 211, 21);
+    text-underline-offset: 15px;
+}

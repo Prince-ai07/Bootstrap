@@ -29,3 +29,9 @@
     text-decoration-color: rgb(211, 211, 21);
     text-underline-offset: 15px;
 }
+
+img:hover{
+    background-color: yellow;
+    transform: scale(1.2);
+    border-radius: 50%;
+}
